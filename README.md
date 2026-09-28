@@ -1,6 +1,6 @@
 # Restaurant Mobile Application
 
-Hamza Ali — Reg No 9751 — Assignment 01 — Submitted to Dr. Sadaf Tanvir — 27th September 2026
+Imran Ali — Reg No 9680 — Assignment 01 — Submitted to Dr. Sadaf Tanvir — 27th September 2026
 
 ---
 
